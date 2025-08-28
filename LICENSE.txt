@@ -1,0 +1,161 @@
+COMMERCIAL LICENSE AGREEMENT
+
+TaxiPark Pro - Complete Taxi Fleet Management Dashboard
+Version 1.0.0
+Copyright (c) 2025 TaxiPark Pro Team
+
+================================================================================
+
+THIS IS A COMMERCIAL LICENSE AGREEMENT. BY PURCHASING, DOWNLOADING, OR USING 
+THIS SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE.
+
+================================================================================
+
+1. GRANT OF LICENSE
+
+Subject to the terms and conditions of this Agreement, the Licensor grants you 
+a non-exclusive, non-transferable license to:
+
+a) Use the Software for commercial purposes
+b) Modify the Software to suit your needs
+c) Create derivative works based on the Software
+d) Deploy the Software on unlimited domains/servers that you own or control
+
+2. WHAT YOU CAN DO
+
+✓ Use the Software for personal or commercial projects
+✓ Modify, customize, and extend the Software
+✓ Create unlimited end products using the Software
+✓ Deploy on unlimited domains you own or control
+✓ Use for client projects (with proper licensing)
+✓ Remove or modify copyright notices in the code
+✓ Create SaaS applications using the Software
+
+3. WHAT YOU CANNOT DO
+
+✗ Redistribute or resell the original Software
+✗ Share the source code with unlicensed parties
+✗ Create competing products that are substantially similar
+✗ Claim authorship of the original Software
+✗ Use the Software for illegal activities
+✗ Sublicense the Software to third parties
+✗ Create templates or themes for resale using this Software
+
+4. OWNERSHIP
+
+The Software is licensed, not sold. The Licensor retains all rights, title, 
+and interest in and to the Software, including all intellectual property rights.
+
+5. SUPPORT AND UPDATES
+
+Your purchase includes:
+- 6 months of technical support via email
+- 1 year of free updates and bug fixes
+- Access to documentation and setup guides
+- Priority support for critical issues
+
+Support covers:
+- Installation and configuration assistance
+- Bug fixes and compatibility issues
+- General usage questions
+- Customization guidance
+
+Support does NOT cover:
+- Custom development or modifications
+- Third-party plugin integration
+- Server configuration or hosting issues
+- Training or consulting services
+
+6. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, 
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
+SOFTWARE.
+
+8. TERMINATION
+
+This license is effective until terminated. Your rights under this license 
+will terminate automatically without notice if you fail to comply with any 
+term(s) of this Agreement.
+
+9. REFUND POLICY
+
+Refunds are available within 30 days of purchase if:
+- The Software has critical bugs that prevent basic functionality
+- The Software is not as described in the product listing
+- Technical issues prevent installation despite following documentation
+
+Refunds are NOT available for:
+- Change of mind or project requirements
+- Compatibility issues with unsupported environments
+- Customization difficulties
+- Performance issues due to hosting limitations
+
+10. THIRD-PARTY COMPONENTS
+
+The Software may include third-party open-source components. These components 
+are subject to their respective licenses, which are included in the Software 
+distribution.
+
+Major third-party components include:
+- React (MIT License)
+- NestJS (MIT License)
+- TypeScript (Apache License 2.0)
+- Tailwind CSS (MIT License)
+- And others as listed in package.json files
+
+11. COMPLIANCE
+
+You are responsible for ensuring that your use of the Software complies with 
+all applicable laws and regulations in your jurisdiction.
+
+12. UPDATES AND MODIFICATIONS
+
+The Licensor reserves the right to update this license agreement. Continued 
+use of the Software after such modifications constitutes acceptance of the 
+updated terms.
+
+13. CONTACT INFORMATION
+
+For licensing questions, support, or other inquiries:
+
+Email: support@taxipark-pro.com
+Website: https://taxipark-pro.com
+Support Portal: https://support.taxipark-pro.com
+
+14. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws 
+of [Your Jurisdiction], without regard to its conflict of law provisions.
+
+================================================================================
+
+PURCHASE DETAILS:
+
+Item: TaxiPark Pro - Complete Taxi Fleet Management Dashboard
+Version: 1.0.0
+Purchase Date: [Date of Purchase]
+License Type: Commercial Single License
+Purchaser: [Purchaser Name]
+Order ID: [Order ID]
+
+================================================================================
+
+ACKNOWLEDGMENT:
+
+By using this Software, you acknowledge that you have read this Agreement, 
+understand it, and agree to be bound by its terms and conditions.
+
+================================================================================
+
+Copyright (c) 2025 TaxiPark Pro Team. All rights reserved.
+
+Last Updated: January 15, 2025
+License Version: 1.0
